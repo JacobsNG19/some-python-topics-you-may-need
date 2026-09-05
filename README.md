@@ -1,5 +1,3 @@
-
-```markdown
 # Some topics you may need in Python
 
 A practical collection of important Python topics that many developers need after the basics.
@@ -46,7 +44,6 @@ some-topics-you-may-need-in-python/
 └── README.md
 ```
 
----
 
 ## How to use
 
